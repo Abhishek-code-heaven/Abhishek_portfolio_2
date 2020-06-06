@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Abhishek Vaid </title>
+    <link>https://abhishekvaid13.github.io/Abhishek_portfolio_2/</link>
+    <description>Recent content in Data Science Portfolio on Abhishek Vaid </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://abhishekvaid13.github.io/Abhishek_portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project-1: COVID-19 data building and visualization</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_2/post/project-1/</link>
+      <pubDate>Wed, 03 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_2/post/project-1/</guid>
+      <description>CORONAVIRUS HAS CLAIMED PRECIOUS LIVES THOUGHOUT THE WORLD. PEOPLE ACROSS THE GLOBE ARE DOING COUNTLESS HOURS OF RESEARCH TO FIND A SOLUTION. MY WORK MEASURES THE AMOUNT OF WORKS DONE BY TITLES PUBLISHED IN JOURNALS ACROSS THE GLOBE AND COMPARES EACH JOURNAL WITH THE AMOUNTS OF TITLES PASSAGES THEY HAVE PRODUCED ON THE CORONA VIRUS WHICH MIGHT BE CLEAR MEASURE OF THERE PARTICIPATION IN CREATING AWARENESS AND SAVING LIVES IN THE PANDEMIC SITUATION.</description>
+    </item>
+    
+    <item>
+      <title>Hire Me</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_2/contact/</guid>
+      <description>   Contact Details      Gmail: abhishekvaid13@gmail.com   Contact Number: 9999578968   Resume: https://github.com/abhishekvaid13/Resume-Hire-Me-   Kaggle: https://www.kaggle.com/abhishekvaid19968    </description>
+    </item>
+    
+    <item>
+      <title>Project 2: ARIMA and SARIMA Forecasting</title>
+      <link>https://abhishekvaid13.github.io/Abhishek_portfolio_2/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishekvaid13.github.io/Abhishek_portfolio_2/post/project-2/</guid>
+      <description>In this project I have taken a Champaign sales dataset and forecasted its upcoming sales trend. To do so I have first checked whether my data is stationery by performing Dickey Fuller test and used the obtained p-value to determine so. After that I have performed Data seasonal differencing to make my data stationery. Then I have plotted my data using statsmodel&amp;rsquo;s tsaplot for visualizing Autocorrelation(ACF) and Partial Autocorrelation(PACF) to determine values of auto regressive lags(P) and the value of moving average(Q).</description>
+    </item>
+    
+  </channel>
+</rss>
